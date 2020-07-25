@@ -12,15 +12,13 @@ Enthusiast of the best web & mobile development technologies.
 Passionate Software Engineer with years of verifiable success in delivering appropriate technology solutions for web and mobile products. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications.
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-=======
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-🌆 Daytime    517 commits    █████████░░░░░░░░░░░░░░░░   38.3% 
-🌃 Evening    438 commits    ████████░░░░░░░░░░░░░░░░░   32.44% 
-🌙 Night      229 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96%
+🌞 Morning    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+🌆 Daytime    517 commits    █████████░░░░░░░░░░░░░░░░   38.13% 
+🌃 Evening    444 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
+🌙 Night      229 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89%
 
 ```
 
@@ -42,5 +40,4 @@ Passionate Software Engineer with years of verifiable success in delivering appr
 ```
 
 
->>>>>>> 0fab5ff2fc31105cb4acbc605ecc6e932522d2bf
 <!--END_SECTION:waka-->
