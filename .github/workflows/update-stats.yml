@@ -1,5 +1,6 @@
 name: Waka Readme
 
+on: [push, pull_request]
 # on:
 #   schedule:
 #     # Runs at 20:30pm UTC & 2:00am IST
