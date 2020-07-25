@@ -1,10 +1,10 @@
 name: Waka Readme
 
-# on: [push, pull_request]
-on:
-  schedule:
-    # Runs at 20:30pm UTC & 2:00am IST
-    - cron: '30 20 * * *'
+on: [push, pull_request]
+# on:
+#   schedule:
+#     # Runs at 20:30pm UTC & 2:00am IST
+#     - cron: '30 20 * * *'
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_TIMEZONE: "False"
+          SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           USERNAME: <username>
           SHOW_OS: "True"
