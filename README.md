@@ -15,4 +15,32 @@ Passionate about education and changing people's lives through programming. More
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 <!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+🌆 Daytime    517 commits    █████████░░░░░░░░░░░░░░░░   38.5% 
+🌃 Evening    431 commits    ████████░░░░░░░░░░░░░░░░░   32.09% 
+🌙 Night      229 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: America/Toronto
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+💻 Operating Systems: 
+
+
+```
+
+
 <!--END_SECTION:waka-->
