@@ -22,21 +22,8 @@ Passionate Software Engineer with years of verifiable success in delivering appr
 
 ```
 
-
-📊 **This week I spent my time on** 
-
 ```text
 ⌚︎ Timezone: America/Toronto
-
-💬 Languages: 
-
-
-🔥 Editors: 
-
-
-💻 Operating Systems: 
-
-
 ```
 
 
