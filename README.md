@@ -12,7 +12,6 @@ Enthusiast of the best web & mobile development technologies.
 Passionate Software Engineer with years of verifiable success in delivering appropriate technology solutions for web and mobile products. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications.
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
 
 ```text
 🌞 Morning    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
