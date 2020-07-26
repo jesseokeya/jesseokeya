@@ -42,3 +42,7 @@ Mac                      25 mins             ███████████�
 
 
 <!--END_SECTION:waka-->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical" />
+
