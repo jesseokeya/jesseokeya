@@ -1,5 +1,3 @@
-# Jesse Okeya
-
 Software Developer @Irdeto
 <br />
 Incoming Senior Software Developer @CloutJam
