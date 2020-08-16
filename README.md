@@ -10,21 +10,21 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 699 Contributions in year 2020
+> 🏆 699 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 133 Public Repositories 
+> 📜 133 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    369 commits    ██████░░░░░░░░░░░░░░░░░░░   25.5% 
@@ -33,7 +33,7 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 🌙 Night      215 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       201 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
@@ -47,20 +47,20 @@ Sunday       189 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Toronto
+⌚︎ Time zone: America/Toronto
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  20 hrs 9 mins       █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      20 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               47 repos            ████████████░░░░░░░░░░░░░   51.09% 
