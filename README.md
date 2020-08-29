@@ -1,6 +1,4 @@
-Software Developer @Irdeto
-<br />
-Incoming Full Stack Software Developer @CloutJam
+Full Stack Software Developer @CloutJam
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jesse%20Okeya-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-okeya-45a38510a/)](https://www.linkedin.com/in/jesse-okeya-45a38510a/) 
 [![Gmail Badge](https://img.shields.io/badge/-jesseokeya@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jesseokeya@gmail.com)](mailto:jesseokeya@gmail.com)
