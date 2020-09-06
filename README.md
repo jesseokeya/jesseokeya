@@ -8,7 +8,7 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -51,10 +51,10 @@ Sunday       172 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  17 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  8 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 10 mins      █████████████████████████   100.0%
+Mac                      8 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
