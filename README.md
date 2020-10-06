@@ -12,7 +12,7 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 
 **🐱 My Github Data** 
 
-> 🏆 619 Contributions in the Year 2020
+> 🏆 620 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -51,10 +51,10 @@ Sunday       175 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  8 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 55 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 46 mins       █████████████████████████   100.0%
+Mac                      6 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
