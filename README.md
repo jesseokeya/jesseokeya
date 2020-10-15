@@ -8,11 +8,11 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 622 Contributions in the Year 2020
+> 🏆 626 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -51,10 +51,10 @@ Sunday       175 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.0%
+VS Code                  9 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.0%
+Mac                      9 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
