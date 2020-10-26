@@ -10,7 +10,7 @@ Full Stack Software Developer @CloutJam
 
 **🐱 My Github Data** 
 
-> 🏆 656 Contributions in the Year 2020
+> 🏆 658 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -49,10 +49,10 @@ Sunday       175 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  27 hrs 5 mins       █████████████████████████   100.0%
+VS Code                  25 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      27 hrs 5 mins       █████████████████████████   100.0%
+Mac                      25 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
