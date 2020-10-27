@@ -6,11 +6,11 @@ Full Stack Software Developer @CloutJam
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 658 Contributions in the Year 2020
+> 🏆 660 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -49,10 +49,10 @@ Sunday       175 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  25 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 10 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      25 hrs 36 mins      █████████████████████████   100.0%
+Mac                      27 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
