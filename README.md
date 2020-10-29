@@ -6,7 +6,7 @@ Full Stack Software Developer @CloutJam
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My Github Data** 
 
@@ -49,10 +49,10 @@ Sunday       175 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  28 hrs 5 mins       █████████████████████████   100.0%
+VS Code                  32 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      28 hrs 5 mins       █████████████████████████   100.0%
+Mac                      32 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
