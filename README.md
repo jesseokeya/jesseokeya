@@ -51,10 +51,10 @@ Sunday       176 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 23 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 39 mins      █████████████████████████   100.0%
+Mac                      18 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +72,7 @@ CSS                      7 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/jesseokeya/jesseokeya/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/jesseokeya/jesseokeya/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
