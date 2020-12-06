@@ -18,9 +18,9 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
  > 
 > 💼 Opted to Hire
  > 
-> 📜 139 Public Repositories
+> 📜 139 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+139 Private Repository 
  > 
 **I'm an Early 🐤** 
 
