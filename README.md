@@ -8,17 +8,17 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 300 Contributions in the Year 2021
+> 🏆 301 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 144 Public Repositories 
+> 📜 145 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
