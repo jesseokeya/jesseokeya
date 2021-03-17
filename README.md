@@ -8,11 +8,11 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 398 Contributions in the Year 2021
+> 🏆 401 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -25,21 +25,21 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    273 commits    ██████░░░░░░░░░░░░░░░░░░░   25.44% 
-🌆 Daytime    386 commits    █████████░░░░░░░░░░░░░░░░   35.97% 
+🌞 Morning    275 commits    ██████░░░░░░░░░░░░░░░░░░░   25.63% 
+🌆 Daytime    384 commits    █████████░░░░░░░░░░░░░░░░   35.79% 
 🌃 Evening    269 commits    ██████░░░░░░░░░░░░░░░░░░░   25.07% 
 🌙 Night      145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
 Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Wednesday    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Wednesday    151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
 Thursday     185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
 Friday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Saturday     186 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Saturday     184 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
 Sunday       152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
 
 ```
@@ -51,10 +51,10 @@ Sunday       152 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  13 hrs 32 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs 32 mins      █████████████████████████   100.0%
+Mac                      16 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
