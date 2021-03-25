@@ -12,13 +12,13 @@ I am at my very best when I have a problem to solve. It forces me to grow my ski
 
 **🐱 My Github Data** 
 
-> 🏆 418 Contributions in the Year 2021
+> 🏆 422 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 145 Public Repositories 
+> 📜 149 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -51,10 +51,10 @@ Sunday       139 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.0%
+Mac                      6 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
