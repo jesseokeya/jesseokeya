@@ -7,6 +7,8 @@ An enthusiastic learner who aims at being the best at whatever task I take on. E
 
 Interests: Full stack development, Data analysis, Task Automation
 
+Leetcode: https://leetcode.com/jesseokeya/
+
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
