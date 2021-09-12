@@ -72,10 +72,4 @@ CSS                      6 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jesseokeya/jesseokeya/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
