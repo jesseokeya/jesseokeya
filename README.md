@@ -11,20 +11,6 @@ Interests: Full stack development, Data analysis, Task Automation
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 466 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 149 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -34,6 +20,7 @@ Interests: Full stack development, Data analysis, Task Automation
 🌙 Night      108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32%
 
 ```
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -46,7 +33,6 @@ Saturday     168 commits    ████░░░░░░░░░░░░░�
 Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
