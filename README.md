@@ -6,7 +6,7 @@ Full Stack Software Developer @CloutJam
 
 An enthusiastic learner who aims at being the best at whatever task I take on. Extremely passionate and proficient at learning new technologies. Self driven and likes to demonstrate ownership and leadership.
 
-Interests: Full stack development, Data analysis, Task Automation
+Interests: Full stack development, Data analysis, Task Automation, Distributed Systems
 
 ![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
 
