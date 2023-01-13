@@ -8,9 +8,6 @@ An enthusiastic learner who aims at being the best at whatever task I take on. E
 
 Interests: Full stack development, Data analysis, Task Automation, Distributed Systems
 
-![](https://github-readme-stats.vercel.app/api?username=jesseokeya&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseokeya&layout=compact&theme=radical)
-
-<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -18,32 +15,6 @@ Interests: Full stack development, Data analysis, Task Automation, Distributed S
 🌆 Daytime    350 commits    █████████░░░░░░░░░░░░░░░░   36.69% 
 🌃 Evening    251 commits    ██████░░░░░░░░░░░░░░░░░░░   26.31% 
 🌙 Night      108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32%
-
-```
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Wednesday    125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Thursday     168 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Friday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Saturday     168 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
-
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Toronto
-
-🔥 Editors: 
-VS Code                  14 hrs 1 min        █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      14 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
